@@ -1,0 +1,6 @@
+*.csv
+anaconda_projects/
+.ipynb_checkpoints
+.jupyter
+.virtual_documents
+.DS_Store
